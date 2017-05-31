@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "mocha"
+    "test": "mocha --reporter spec"
   },
   "author": "Konstantin Metto <met9127@gmail.com> (https://unicore.by)",
   "license": "ISC",
