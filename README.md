@@ -12,11 +12,7 @@ Fixed typeof
     typeOf([]) // should return "array"
     typeOf({}) // should return "object"
     typeOf(function(){}) // should return "function"
-  
-  
-  Output should be `35,666`
-
-
+    
 ## Tests
 
   `npm test`
