@@ -1,0 +1,15 @@
+{
+  "name": "typeof",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Konstantin Metto <met9127@gmail.com> (https://unicore.by)",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.0.0",
+    "mocha": "^3.4.2"
+  }
+}
